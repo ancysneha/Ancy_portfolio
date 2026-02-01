@@ -2,6 +2,9 @@
 
 A modern, fully responsive, and animated personal portfolio website showcasing full-stack development skills and AI projects.
 
+## Live Portfolio: https://ancy-portfolio.vercel.app
+
+
 ## 🚀 Features
 
 - **Unique Animated Background**: Custom noise texture with mesh gradients and floating particles
@@ -11,6 +14,8 @@ A modern, fully responsive, and animated personal portfolio website showcasing f
 - **Interactive Elements**: Hover effects, scroll animations, and magnetic buttons
 - **Project Showcase**: Detailed project cards with modal views
 - **Contact Form**: Animated contact form with validation
+- - Live Deployment: Hosted on Vercel 
+
 
 ## 🛠️ Tech Stack
 
@@ -77,4 +82,5 @@ This project is open source and available for personal use.
 ---
 
 Built with ❤️ by Ancy Sneha
+
 
